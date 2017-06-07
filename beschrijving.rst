@@ -31,6 +31,12 @@ you can |location_link|.
 
 .. |location_link| raw:: html
 
-   <a href="http://geoiptool.com" target="\_blank">check your location here</a>
+   <a href="http://docutils.sourceforge.net/docs/user/rst/quickstart.html" target="\_blank">check your location here</a>
+   
+   Dit werkt niet ?
+   
+   2 de poging
+   
+   This is [a link](http://docutils.sourceforge.net/docs/user/rst/quickstart.html){:target="_blank"} that opens in a new window.
 
 
