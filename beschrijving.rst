@@ -40,3 +40,5 @@ you can |location_link|.
    This is [a link](http://docutils.sourceforge.net/docs/user/rst/quickstart.html){:target="_blank"} that opens in a new window.
 
 
+this is [a link](http://example.com){:target="_blank"} that opens in a new window.
+
