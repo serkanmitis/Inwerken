@@ -42,5 +42,5 @@ you can |location_link|.
 
 this is [a link](http://example.com){:target="_blank"} that opens in a new window.
 
-** Conclusie , het lijkt zeer moeilijk of zelfs niet mogelijk om links in een nieuw venster te openen **
+**Conclusie , het lijkt zeer moeilijk of zelfs niet mogelijk om links in een nieuw venster te openen**
 
