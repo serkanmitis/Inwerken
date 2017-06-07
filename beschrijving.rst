@@ -7,6 +7,8 @@
 1.1.1 Project, branchen en mergen
 ~~~~~~~~~~~~~~~~~~~~~~
 
+opmerking 1 : kan je op de master werken ?
+
 1.2. structered text leren
 -----------------
 
