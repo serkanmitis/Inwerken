@@ -31,7 +31,7 @@ you can |location_link|.
 
 .. |location_link| raw:: html
 
-   <a href="http://docutils.sourceforge.net/docs/user/rst/quickstart.html" target="\_blank">check your location here</a>
+   <a href="http://docutils.sourceforge.net/docs/user/rst/quickstart.html" target="_blank">check your location here</a>
    
    Dit werkt niet ?
    
@@ -41,4 +41,6 @@ you can |location_link|.
 
 
 this is [a link](http://example.com){:target="_blank"} that opens in a new window.
+
+** Conclusie , het lijkt zeer moeilijk of zelfs niet mogelijk om links in een nieuw venster te openen **
 
