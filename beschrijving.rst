@@ -25,10 +25,10 @@ Link op dezelfde tab
 
 Link met een nieuw tab
 
-ou can |location_link|.
+you can |location_link|.
 
 .. |location_link| raw:: html
 
-   <a href="http://geoiptool.com" target="_blank">check your location here</a>
+   <a href="http://geoiptool.com" target="\_blank">check your location here</a>
 
 
